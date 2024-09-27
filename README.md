@@ -1,5 +1,3 @@
-![alt text](https://github.com/mezhibo/security-methods/blob/f3c95789b4f014251d77bdf7e27b6ed5a56ab61e/IMG/1.png)
-
 
 **Задание 1**
 
